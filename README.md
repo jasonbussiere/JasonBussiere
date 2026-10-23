@@ -1,4 +1,11 @@
-## Hi there 👋
+**Bonjour, Je suis Jason Bussière**👋
+Développeur passionné par Python, Java, C# et le développement logiciel.
+
+**🛠 Technologies**
+<img src=["https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ">Python</img>
+<img src=["https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white ) ">Java</img>
+<img src=>Git</img>
+<img src=["https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ">Git</img>
 
 <!--
 **jasonbussiere/JasonBussiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
 
 https://github-readme-stats.vercel.app/api?username=JasonBussiere&show_icons=true&theme=dark
