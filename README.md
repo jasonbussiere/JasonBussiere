@@ -3,7 +3,7 @@
 je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et le développement logiciel.
 ---
 ### 💻 Technologies & Compétences
-**Langages & Frameworks**
+**Langages & Frameworks**<br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,8 +30,8 @@ je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et l
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&theme=radical" alt="Statistiques GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-utilisateur&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonbussiere&show_icons=true&theme=radical" alt="Statistiques GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?jasonbussiere&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150"/>
 </p>
 
 ---
