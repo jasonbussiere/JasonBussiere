@@ -31,9 +31,8 @@ je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et l
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonbussiere&show_icons=true&theme=radical" alt="Statistiques GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?jasonbussiere&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbussiere&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150"/>
 </p>
-
 ---
 ### 📫 Me contacter
 
