@@ -27,14 +27,14 @@ je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et l
 * **Points clés :** Classe custom pour les calcules mathématiques de vecteurs et implémentation d'un patron de conception "Double Dispatch" pour controller les objets du jeux. 
 * 🔗 [Voir le dépôt](https://github.com/jasonbussiere/asteroids-python-vectors))
 ---
-### 📊 Statistiques GitHub
+<br>### 📊 Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonbussiere&show_icons=true&theme=radical" alt="Statistiques GitHub" height="150"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbussiere&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150"/>
 </p>
 ---
-### 📫 Me contacter
+<br>### 📫 Me contacter
 
 * **LinkedIn :** [www.linkedin.com/in/jason-bussière-95055326b](https://linkedin.com)
 * **Email :** [jbussiere777@gmail.com](mailto:jbussiere777@gmail.com])
