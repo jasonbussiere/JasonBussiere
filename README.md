@@ -31,7 +31,7 @@ je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et l
 > **Description :** projets académiques API, un service de consommation de données des capteur d'ordinateur (RAM, STORAGE, CPU) en continue envoyer par un ou plusieurs agents distant
 * **Tech Stack :** Python REST/API , HTML/Javascript Dashboard, agent-client script python, TimescaleDb(PostgreSQL), SQLAlchemy, Docker et Docker-Compose.
 * **Points clés :** agent python envoi les données en continue vers le "endpoint" , l'API ingère les données et les enregistre dans la base de données, le Dashboard consomme l'api pour afficher les agents connectés, les données et trace une représentation graphique des données.
-* 🔗 [Voir le dépôt]([https://github.com/jasonbussiere/[asteroids-python-vectors](https://github.com/jasonbussiere/telemetry_api)](https://github.com/jasonbussiere/telemetry_api)))
+* 🔗 [Voir le dépôt](https://github.com/jasonbussiere/telemetry_api)
 ---
 
 <br>### 📊 Statistiques GitHub
