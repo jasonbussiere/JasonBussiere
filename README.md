@@ -13,7 +13,7 @@ je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et l
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/node.js-v20.0.0-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Bases de données & DevOps**
+**Bases de données & DevOps**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
