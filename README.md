@@ -74,7 +74,7 @@ je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et l
 *   **--Base de données: Optimisée :** Modélisation relationnelle MariaDB respectant la troisième forme normal(3NF) pour garantir l'intégrité des données.
 *   **--Service métier sur mesure :** Développement d'une logique backend personnalisée pour la gestion des sessions et du panier d'achats.
 *   **--Accessibilité :** Implémentation de l'internationalisation (i18n) pour offrir un interface support multi langue dynamique.
-* 🔗 [Voir le dépôt](https://github.com/e-commerce-fullstack-java)
+* 🔗 [Voir le dépôt](https://github.com/jasonbussiere/e-commerce-fullstack-java)
 ---
 
 <br>### 📊 Statistiques GitHub
