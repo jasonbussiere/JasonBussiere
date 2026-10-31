@@ -65,6 +65,16 @@ je suis un développeur Full-Stack passionné par Python, Java, C#, Web/API et l
 * **Tech Stack :** Python REST/API , HTML/Javascript Dashboard, agent-client script python, TimescaleDb(PostgreSQL), SQLAlchemy, Docker et Docker-Compose.
 * **Points clés :** agent python envoi les données en continue vers le "endpoint" , l'API ingère les données et les enregistre dans la base de données, le Dashboard consomme l'api pour afficher les agents connectés, les données et trace une représentation graphique des données.
 * 🔗 [Voir le dépôt](https://github.com/jasonbussiere/telemetry_api)
+
+#### 📌 [ecommerce-fullstack][[https://github.com/jasonbussiere/e-commerce-fullstack-java](https://github.com/jasonbussiere/e-commerce-fullstack-java)]
+> **Description :** projets académiques application Web full stack MVC. Une application web de commerce électronique complète construite avec Jakarta EE. 
+* **Tech Stack :** HTML/JSP, Java, Jakarta EE, Servlet, Tomcat, MariaDB,  
+* **Points clés :**
+*   **Architecture structurée :** Séparation stricte des responsabilité via patron de conception MVC
+*   **  Base de données: Optimisée :** Modélisation relationnelle MariaDB respectant la troisième forme normal(3NF) pour garantir l'intégrité des données.
+*   ** Service métier sur mesure :** Développement d'une logique backend personnalisée pour la gestion des sessions et du panier d'achats.
+*   **Accessibilité :** Implémentation de l'internationalisation (i18n) pour offrir un interface support multilangue dynamique.
+* 🔗 [Voir le dépôt](https://github.com/e-commerce-fullstack-java)
 ---
 
 <br>### 📊 Statistiques GitHub
