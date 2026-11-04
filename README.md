@@ -2,7 +2,7 @@
 
 ### Software development student | Full-Stack & Backend Developer
 
-I am a Software development student with a focus in backend systems, APIs and full-stack development.  I have a strong interest in design patterns, physic-based systems and distributed systems. I am actively Seeking internships and entry-level opportunities in  full-stack or application development.
+I am a Software development student with a strong focus in full-stack development.  I have 10+ years experience in a software technical support role and I wish to transition into software development. I am actively Seeking internships and entry-level opportunities in  full-stack or application development.
 
 ## About Me
 
@@ -79,7 +79,7 @@ A full-stack e-commerce application built with Java and Jakarta EE, following a 
 
 ## Contact
 
-- LinkedIn: [Jason Bussiere](www.linkedin.com/in/jason-bussière-95055326b)
+- LinkedIn: [Jason Bussiere](https://www.linkedin.com/in/jason-bussière-95055326b)
 - Email: [jbussiere777@gmail.com](mailto:jbussiere777@gmail.com)
 - GitHub: [github.com/jasonbussiere](https://github.com/jasonbussiere)
 
