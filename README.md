@@ -2,7 +2,7 @@
 
 ### Software development student | Full-Stack & Backend Developer
 
-I am a Software development student with a strong focus in full-stack development.  I have 10+ years experience in a software technical support role and I wish to transition into software development. I am actively Seeking internships and entry-level opportunities in  full-stack or application development.
+I am a Software development student with a strong focus on full-stack development.  I have 10+ years of experience in a software technical support role and am transitioning into software development. I am especially interested in backend systems, APIs and building maintainable user-focused applications. 
 
 ## About Me
 
@@ -12,7 +12,7 @@ I enjoy working on projects that combine:
 - user-facing interfaces and product experience
 - object-oriented programming and software engineering fundamentals
 
-I am especially interested in Java, backend systems, APIs, and full-stack development. I am currently looking for internships and entry-level software development opportunities where I can continue growing as an engineer and contribute to meaningful projects.
+I am especially interested in Design patterns, backend systems, APIs, and full-stack development. My background in technical support has strengthened my problem-solving skills and my understanding of user needs, and I am now focused on building software as a developer. I am currently looking for internships and entry-level software development opportunities where I can continue growing as a developper and contribute to meaningful projects.
 
 ## Technical Skills
 
@@ -22,7 +22,7 @@ I am especially interested in Java, backend systems, APIs, and full-stack develo
 - JavaScript
 - C#
 - Node.js
-- C++ (learning)
+- C++ (actively learning)
   
 ### Frameworks
 - Jakarta EE / Servlet-based Java web development
@@ -36,7 +36,7 @@ I am especially interested in Java, backend systems, APIs, and full-stack develo
 - Tailwind
 
 ### Databases
-- SQL queries
+- SQL
 - MariaDB
 - MySQL
 - PostgreSQL
