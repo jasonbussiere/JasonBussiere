@@ -16,23 +16,33 @@ I am especially interested in Java, backend systems, APIs, and full-stack develo
 
 ## Technical Skills
 
-### Languages & Frameworks
+### Languages
 - Java
 - Python
 - JavaScript
 - C#
-- HTML / CSS
-- SQL
+- Node.js
+- C++ (learning)
+  
+### Frameworks
 - Jakarta EE / Servlet-based Java web development
 - Flask / FastAPI
-- .NET Core
-- Node.js / Express
+- ASP.NET Core
+- Express.js
 
-### Databases & Tools
+### Markup & Styling
+- HTML / CSS
+- Bootstrap
+- Tailwind
+
+### Databases
+- SQL queries
 - MariaDB
 - MySQL
 - PostgreSQL
 - MongoDB
+
+### Tools
 - Docker
 - Git / GitHub
 - Maven
