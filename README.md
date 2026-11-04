@@ -69,7 +69,7 @@ A full-stack e-commerce application built with Java and Jakarta EE, following a 
 
 ## Contact
 
-- LinkedIn: [Jason Bussiere](https://www.linkedin.com)
+- LinkedIn: [Jason Bussiere](www.linkedin.com/in/jason-bussière-95055326b)
 - Email: [jbussiere777@gmail.com](mailto:jbussiere777@gmail.com)
 - GitHub: [github.com/jasonbussiere](https://github.com/jasonbussiere)
 
