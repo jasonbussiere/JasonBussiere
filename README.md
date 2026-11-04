@@ -1,8 +1,8 @@
 # Jason Bussiere
 
-### Software Engineering Student | Full-Stack & Backend Developer
+### Software development student | Full-Stack & Backend Developer
 
-I am a software engineering student with a strong interest in building practical, maintainable applications using modern development practices. My focus is on backend architecture, database-driven systems, and full-stack development with a strong emphasis on clean design and real-world problem solving.
+I am a Software development student with a focus in backend systems, APIs and full-stack development.  I have a strong interest in design patterns, physic-based systems and distributed systems. I am actively Seeking internships and entry-level opportunities in  full-stack or application development.
 
 ## About Me
 
