@@ -1,54 +1,15 @@
 # Jason Bussiere
 
-### Software development student | Full-Stack & Backend Developer
+### Programmer analyst student
 
-I am a Software development student with a strong focus on full-stack development.  I have 10+ years of experience in a software technical support role and am transitioning into software development. I am especially interested in backend systems, APIs and building maintainable user-focused applications. 
+### Full-Stack Developer
 
-## About Me
+I am a programmer analyst t student with a strong focus on full-stack development.  I have 10+ years of experience in a software technical support role and am transitioning into software development. I am especially interested in backend systems, APIs and I am looking for my first internship or junior role.
 
-I enjoy working on projects that combine:
-- backend logic and application architecture
-- database design and data persistence
-- user-facing interfaces and product experience
-- object-oriented programming and software engineering fundamentals
-
-I am especially interested in Design patterns, backend systems, APIs, and full-stack development. My background in technical support has strengthened my problem-solving skills and my understanding of user needs, and I am now focused on building software as a developer. I am currently looking for internships and entry-level software development opportunities where I can continue growing as a developper and contribute to meaningful projects.
-
-## Technical Skills
-
-### Languages
-- Java
-- Python
-- JavaScript
-- C#
-- Node.js
-- C++ (actively learning)
-  
-### Frameworks
-- Jakarta EE / Servlet-based Java web development
-- Flask / FastAPI
-- ASP.NET Core
-- Express.js
-
-### Markup & Styling
-- HTML / CSS
-- Bootstrap
-- Tailwind
-
-### Databases
-- SQL
-- MariaDB
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Tools
-- Docker
-- Git / GitHub
-- Maven
-- JUnit
-- Pytest
-- Selenium
+## Contact Me
+- LinkedIn: [Jason Bussiere](https://www.linkedin.com/in/jason-bussière-95055326b)
+- Email: [jbussiere777@gmail.com](mailto:jbussiere777@gmail.com)
+- GitHub: [github.com/jasonbussiere](https://github.com/jasonbussiere)
 
 ## Featured Projects
 
@@ -70,6 +31,62 @@ A full-stack e-commerce application built with Java and Jakarta EE, following a 
 - Technologies: Java, Jakarta EE, JSP, Tomcat, MariaDB, Maven
 - Highlights: MVC architecture, database design, session-based cart logic, user flows, multi-language support
 
+
+## About Me
+
+I enjoy working on projects that combine:
+- backend logic and application architecture
+- database design and data persistence
+- user-facing interfaces and product experience
+- object-oriented programming and software engineering fundamentals
+
+I am especially interested in Design patterns, backend systems, APIs, and full-stack development. My background in technical support has strengthened my problem-solving skills and my understanding of user needs, and I am now focused on building software as a developer. I am currently looking for internships and entry-level software development opportunities where I can continue growing as a developper and contribute to meaningful projects.
+
+## Technical Skills
+
+### Front-end
+- Javascript
+- Python
+- JavaScript
+- C#
+- C++ (actively learning)
+  
+### Frameworks
+- Jakarta EE / Servlet-based Java web development
+- Hibernate / JPA
+- Flask / FastAPI
+- ASP.NET Core
+- Express.js
+- Node.js
+
+### Markup & Styling
+- HTML / CSS
+- Bootstrap
+- Tailwind
+
+### Databases
+- SQL server
+- MariaDB
+- MySQL
+- PostgreSQL
+- MongoDB
+- TimescaleDB
+
+### Tools
+- Docker / Docker compose
+- Git / GitHub
+- Maven
+- JUnit
+- Pytest
+- Selenium
+- CI/CD
+- Jenkins
+- GitHub actions
+
+### Mobile
+- Android studio (Java)
+
+
 ## GitHub Statistics
 
 <p align="center">
@@ -79,9 +96,6 @@ A full-stack e-commerce application built with Java and Jakarta EE, following a 
 
 ## Contact
 
-- LinkedIn: [Jason Bussiere](https://www.linkedin.com/in/jason-bussière-95055326b)
-- Email: [jbussiere777@gmail.com](mailto:jbussiere777@gmail.com)
-- GitHub: [github.com/jasonbussiere](https://github.com/jasonbussiere)
 
 ---
 
